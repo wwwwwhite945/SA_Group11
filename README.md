@@ -7,11 +7,10 @@
 |組長| C107118150 梁家菁|程式|
 ***
 ### 甘特圖
+![Gantt Diagram](gantt.jpg "Gantt Diagram")
 ***
-### PERT
-***
-### CPM
-
+### PERT/CPM
+![PERT/CPM](PERT.jpg "PERT/CPM")
 
 
 
