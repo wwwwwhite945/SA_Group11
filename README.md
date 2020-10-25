@@ -42,8 +42,8 @@
 9. 玩家可以在成就系統查看已完成的成就
 
 ### 使用案例圖
-<img src = "使用案例圖.png" width="80%" height="80%" alt="Use Case Diagram">
-![Use Case Diagram](使用案例圖.png "Use Case Diagram")
+<img src="使用案例圖.png" width="60%" height="60%" alt="Use Case Diagram"/>
+![Use Case Diagram](使用案例圖.png=100 "Use Case Diagram")
 
 ### 使用案例說明
 |使用案例名稱|遊戲設定|
