@@ -28,7 +28,7 @@
 5. 效能：控制頁面資訊量，避免因資訊量過大而導致加載時間長。例如：遊戲中圖片、影片或3D模型的檔案大小維持在高品質且低耗能。
 
 ### 功能分解圖(functional decomposition diagram, FDD)
-![FDD](功能分解圖FDD.png "FDD")
+![FDD](功能分解圖FDD.png =100 "FDD")
 
 ### 需求分析的文字描述
 1. 玩家可以藉由遊戲設定來瞭解遊戲遊玩方法
@@ -42,7 +42,8 @@
 9. 玩家可以在成就系統查看已完成的成就
 
 ### 使用案例圖
-![Use Case Diagram](使用案例圖.png "Use Case Diagram" = 500*500)
+<img src = "使用案例圖.png" width="80%" height="80%" alt="Use Case Diagram">
+![Use Case Diagram](使用案例圖.png "Use Case Diagram")
 
 ### 使用案例說明
 |使用案例名稱|遊戲設定|
