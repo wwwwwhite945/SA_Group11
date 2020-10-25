@@ -42,7 +42,7 @@
 9. 玩家可以在成就系統查看已完成的成就
 
 ### 使用案例圖
-![Use Case Diagram](使用案例圖.png = 0.8 "Use Case Diagram")
+![Use Case Diagram](使用案例圖.png "Use Case Diagram" = 500*500)
 
 ### 使用案例說明
 |使用案例名稱|遊戲設定|
