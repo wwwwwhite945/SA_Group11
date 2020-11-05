@@ -81,6 +81,7 @@
 ![圖0](圖0.png "圖0")
 
 ### UML class Diagram
+![Class_Diagram](ClassDiagram.png "Class_Diagram")
 
 ### 循序圖＆活動圖
 #### 使用案例1
