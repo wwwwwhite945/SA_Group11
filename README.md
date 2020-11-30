@@ -103,4 +103,4 @@
 ![活動圖3](活動圖_3.jpg "活動圖3")
 
 ### 分鏡圖(Storyboard)
-![Storyboard](Storyboard.png "Storyboard")
+![Storyboard](Storyboard.PNG "Storyboard")
