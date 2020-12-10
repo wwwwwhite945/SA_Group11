@@ -106,4 +106,4 @@
 ![Storyboard](Storyboard.PNG "Storyboard")
 
 ### 實體關係圖(ERD)
-![Storyboard](ERD.PNG "ERD")
+![ERD](ERD.PNG "ERD")
